@@ -5,7 +5,7 @@ This repository includes materials for all workshops during AMSI BioinforSummer 
 The materials for this workshop is available [here](add link)
 
 ## Day 1: A hands on introduction to analyzing single-cell RNA-seq data (By Dr Christina Azodi, Ms Ruqian Lyu, Mr Jeffrey Pullin, St Vincent’s Institute of Medical Research)
-The materials for this workshop is available [here](add link)
+The materials for this workshop is available [here](https://biocellgen-public.svi.edu.au/amsi_day1-hands-on-scrnaseq-analysis-workshop-2020-11-30_svi/public/index.html)
 
 ## Day 2: Examining functionality and biogenesis pathways of small RNAs in animals (By Dr Jean Wen & Dr Rippei Hayashi, John Curtin School of Medical Research, ANU)
 The materials for this workshop is available [here](add link)
